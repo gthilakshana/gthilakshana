@@ -1,5 +1,6 @@
 <h3 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h3>
 
+#
 <p align="center">I am currently following the Software Engineering degree. Where I learn the fundamentals and advanced concepts of programming, data structures, algorithms, database management systems, and software engineering. I am passionate about problem-solving and developing new software that will add value to the community and make human life easier in any way possible.I am always eager to learn modern technologies and implement them in current solutions to make them more efficient and robust. Currently, I am learning backend development using Java, PHP, MySQL, as well as web frontend development using HTML, CSS, JavaScript, and TypeScript.</p>
 
 #
@@ -27,7 +28,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-
+#
+ <br/>
+    <h4 align="center">
+       <a  align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;shoot+me+a+message+on+linkedin!;I'm+Full+Stack+developer" alt="Typing SVG" /></a>
+    </h4>
 
 <!--
 **gthilakshana/gthilakshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
