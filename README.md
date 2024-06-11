@@ -1,3 +1,6 @@
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 <h3 align="center">Hey Everyone, I'm Gavrawa Thilakshana</h3>
 
 #
@@ -33,6 +36,10 @@
     <h4 align="center">
        <a  align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;shoot+me+a+message+on+linkedin!;I'm+Full+Stack+developer" alt="Typing SVG" /></a>
     </h4>
+
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 **gthilakshana/gthilakshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
