@@ -9,7 +9,7 @@
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="gthilakshana" /> </p>
 
-- 🌱 I’m currently learning **JavaScript | Java | C++ | MERN Stack | Spring boot |**
+- 🌱 I’m currently learning **JavaScript | Java | C++ | MERN Stack | Spring boot **
 
 - 👨‍💻 All of my projects are available at https://github.com/gthilakshana
 
