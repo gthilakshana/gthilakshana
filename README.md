@@ -8,19 +8,23 @@
 </p>
 
  <!--Heder Text-->
-<h3 align="center">
+ <div>
+ <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> 
+
+ <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=EDECF7&background=FF090900&width=435&lines=Hello+guys%2C+I'm+Gavrawa+Thilakshana." alt="Typing SVG" /></a>
  </h3>
+ </div>
+
 
 
 <!--Owl image-->
 <div>
-  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-
- <!--Description-->
 #
+ <!--Description-->
 <p align="left">I am currently following the Software Engineering degree.I learn the fundamentals and advanced concepts of programming, data structures, algorithms, database management systems, and software engineering. I am passionate about problem-solving and developing new software that will add value to the community and make human life easier in any way possible.I am always eager to learn modern technologies and implement them in current solutions to make them more efficient and robust. Currently, I am learning backend development using Java, Node js , MySQL, MongoDb as well as web frontend development using HTML, CSS, JavaScript, and React </p>
 
 #
@@ -54,6 +58,40 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="gavrawavanniarachchi@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="gavrawavanniarachchi@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/gavrawa_thilakshana_" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/gthilakshana" target="_blank">
+<img src="./github.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/gavrawa-thilakshana/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+
+
+
+
+
+
+
 
 #
  <br/>
