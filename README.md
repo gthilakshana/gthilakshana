@@ -24,8 +24,18 @@
 </div>
 
 #
- <!--Description-->
-<p align="left">I am currently following the Software Engineering degree.I learn the fundamentals and advanced concepts of programming, data structures, algorithms, database management systems, and software engineering. I am passionate about problem-solving and developing new software that will add value to the community and make human life easier in any way possible.I am always eager to learn modern technologies and implement them in current solutions to make them more efficient and robust. Currently, I am learning backend development using Java, Node js , MySQL, MongoDb as well as web frontend development using HTML, CSS, JavaScript, and React </p>
+<!-- Profile Description -->
+<p align="left">
+  👋 Hi there! I'm <strong>Gavrawa Thilakshana</strong>, a passionate software engineer focused on building efficient, user-friendly, and scalable digital solutions. I enjoy learning cutting-edge technologies and solving real-world problems through clean and robust code.
+</p>
+
+<p align="left">
+  🔧 I specialize in backend development using <strong>Java, Node.js, MySQL, MongoDB</strong>, and modern frontend frameworks like <strong>React, Tailwind CSS</strong>. Always evolving, always coding 🚀
+</p>
+
+<p align="left">
+  🎓 I’m currently following a Software Engineering degree and constantly learning fundamentals of programming, data structures, algorithms, database systems, and secure software design.
+</p>
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="gthilakshana" /> </p>
