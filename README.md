@@ -40,7 +40,7 @@
 
 
 
-##
+</br>
 
 <h2 align="center">🌟 Tᴇᴄʜ sᴛᴀᴄᴋ 🌟</h2> </br>
 
@@ -73,10 +73,6 @@
 <img src="./gmail.png" width=50 height=50 alt="gavrawavanniarachchi@gmail.com" style="margin-bottom: 5px;" />
 </a>
 &nbsp;&nbsp;
-<a href="" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
-</a>
-&nbsp;&nbsp;
 <a href="https://www.instagram.com/gavrawa_thilakshana_" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
 </a>
@@ -90,8 +86,6 @@
 </a>
 
 
-
-#
  <br/>
     <h4 align="center">
        <a  align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;shoot+me+a+message+on+linkedin!;I'm+Full+Stack+developer" alt="Typing SVG" /></a>
