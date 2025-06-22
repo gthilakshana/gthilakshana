@@ -7,12 +7,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
- <!--Heder Text-->
+ <!--Header Text-->
  <div>
  <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> 
 
  <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=EDECF7&background=FF090900&width=435&lines=Hello+guys%2C+I'm+Gavrawa+Thilakshana." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=B8ADADFB&width=435&lines=Hello+guys%2C+I'm+Gavrawa+Thilakshana" alt="Typing SVG" /></a>
  </h3>
  </div>
 
