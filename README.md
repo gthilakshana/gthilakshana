@@ -40,8 +40,9 @@
 
 
 
-# 
-<h2 align="center">🌟 Tᴇᴄʜ sᴛᴀᴄᴋ 🌟</h2> 
+##
+
+<h2 align="center">🌟 Tᴇᴄʜ sᴛᴀᴄᴋ 🌟</h2> </br>
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,35 +64,30 @@
 
 
 <!--Contact Section--> 
-
+</br>
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+
 <div align="center">
   
 <a href="gavrawavanniarachchi@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="gavrawavanniarachchi@gmail.com" style="margin-bottom: 5px;" />
 </a>
-
+&nbsp;&nbsp;
 <a href="" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/gavrawa_thilakshana_" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/gthilakshana" target="_blank">
 <img src="./github.png" width=50 height=50 alt="gthilakshana" style="margin-bottom: 5px;" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gavrawa-thilakshana/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-
-
-
-
-
-
 
 
 
