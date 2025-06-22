@@ -1,12 +1,27 @@
+ <!--Banner-->
+ ![gthilakshana Banner Image](./banner.png)
+ 
+
+ <!--img animation-->
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
+
+ <!--Heder Text-->
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=EDECF7&background=FF090900&width=435&lines=Hello+guys%2C+I'm+Gavrawa+Thilakshana." alt="Typing SVG" /></a>
  </h3>
 
+
+<!--Owl image-->
+<div>
+  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+
+ <!--Description-->
 #
-<p align="center">I am currently following the Software Engineering degree.I learn the fundamentals and advanced concepts of programming, data structures, algorithms, database management systems, and software engineering. I am passionate about problem-solving and developing new software that will add value to the community and make human life easier in any way possible.I am always eager to learn modern technologies and implement them in current solutions to make them more efficient and robust. Currently, I am learning backend development using Java, Node js , MySQL, MongoDb as well as web frontend development using HTML, CSS, JavaScript, and React </p>
+<p align="left">I am currently following the Software Engineering degree.I learn the fundamentals and advanced concepts of programming, data structures, algorithms, database management systems, and software engineering. I am passionate about problem-solving and developing new software that will add value to the community and make human life easier in any way possible.I am always eager to learn modern technologies and implement them in current solutions to make them more efficient and robust. Currently, I am learning backend development using Java, Node js , MySQL, MongoDb as well as web frontend development using HTML, CSS, JavaScript, and React </p>
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gthilakshana&label=Profile%20views&color=0e75b6&style=flat" alt="gthilakshana" /> </p>
