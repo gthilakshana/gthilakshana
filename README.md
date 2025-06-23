@@ -1,5 +1,7 @@
  <!--Banner-->
- ![gthilakshana Banner Image](./banner.png)
+ <p align="center">
+  <img src="banner.gif" alt="gif" width="100%" />
+ </p>
  
 
  <!--img animation-->
